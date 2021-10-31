@@ -1,4 +1,4 @@
-# ![Logo](Logo_v1_20211101.jpg)
+# ![Logo](MOS_logo_v2_20211101.png)
 
 MOS
 ===
